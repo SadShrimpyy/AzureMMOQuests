@@ -1,0 +1,7 @@
+name: AzureMMOQuests
+version: '${version}'
+main: com.shiry.azurequests.Quests
+api-version: '1.20'
+prefix: Quests
+authors: [SadShrimpyy]
+description: Integrate quests with MMOCore for immersive gameplay. Conquer challenges, complete missions, and earn rewards.
